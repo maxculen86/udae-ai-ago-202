@@ -2,23 +2,13 @@
 
 ## Consultorio Medico
 
-### Prerequisites
+### Prerequisitos
 
 Node
 npm
 Express
 jsonwebtoken
 mongoose
-
-How to create a RESTful CRUD API using Nodejs?
-
-And how to secure our API with JWT Web-Token?
-
-API using mongodb as the database.
-
-With this code, we can check our user and password and pass back a token in a JSON response. 
-We are using mongodb to register the user and jsonwebtoken to create the token.
-
 
 ### Clone
 
@@ -37,7 +27,7 @@ $ npm install
 
 ```shell
 $ cd api-ago-2020
-$ cd client
+$ cd frontend
 $ npm install
 ```
 ## Correr backend y frontend
@@ -52,7 +42,7 @@ $ npm install
 
 ```shell
 $ cd api-ago-2020
-$ cd client
+$ cd frontend
 $ npm install
 ```
 ## Usuarios creados para login

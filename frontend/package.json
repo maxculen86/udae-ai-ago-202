@@ -1,0 +1,56 @@
+{
+  "name": "open-react-template",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@boomi/react-file-upload": "^0.4.0",
+    "@devexpress/dx-react-core": "^2.7.0",
+    "@devexpress/dx-react-scheduler": "^2.7.0",
+    "@devexpress/dx-react-scheduler-material-ui": "^2.7.0",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "classnames": "^2.2.6",
+    "file-uploader-react-component": "^7.6.1",
+    "lodash": "^4.17.15",
+    "material-table": "^1.68.1",
+    "node-sass": "^4.13.1",
+    "primereact": "^5.0.0-rc.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-file-picker": "0.0.6",
+    "react-ga": "^2.7.0",
+    "react-input-files": "^1.2.0",
+    "react-modal-login": "^1.4.5",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.1",
+    "react-search-box": "^2.0.2",
+    "recharts": "^1.8.5",
+    "rodal": "^1.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cruip/open-react-template.git"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {}
+}
